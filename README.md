@@ -11,6 +11,12 @@
 [![Focus: GIS](https://img.shields.io/badge/focus-GIS%20%2B%20Spatial%20Analytics-green.svg)]()
 [![Methods: ML + Optimization](https://img.shields.io/badge/methods-ML%20%2B%20Optimization-purple.svg)]()
 
+## Interactive Dashboard
+
+Explore the conservation priority map, optimized portfolio, candidate corridors, and named priority planning units here:
+
+[Open the interactive dashboard]((https://ajsager21.github.io/conservation-dashboard/))
+
 ---
 
 ## The Question
