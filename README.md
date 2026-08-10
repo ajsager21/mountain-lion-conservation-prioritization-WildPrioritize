@@ -142,19 +142,15 @@ A 0 to 100 score combining habitat suitability, fire frequency, existing protect
 
 ![Final conservation priority score](figures/fig4_priority_v4.png)
 
-### Figure 4. Model agreement under alternative observation assumptions
 
-This figure compares the original habitat model with the target-group background model. Areas classified as high suitability by both models represent stronger agreement under alternative assumptions about observation effort.
 
-![Observation uncertainty agreement map](figures/fig_uncertainty_agreement.png)
-
-### Figure 5. Least-cost candidate corridors
+### Figure 4. Least-cost candidate corridors
 
 Candidate corridors connecting the five largest core habitat clusters. Corridor locations should be interpreted as model-dependent because the resistance surface is derived from predicted habitat suitability.
 
 ![Least-cost corridors](figures/fig5_corridors.png)
 
-### Figure 6. Weight sensitivity analysis
+### Figure 5. Weight sensitivity analysis
 
 Per-cell frequency of appearing in the top 50 priority cells across 500 randomly reweighted priority formulas.
 
