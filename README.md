@@ -322,6 +322,14 @@ These limitations are discussed in detail in the manuscript.
 
 ---
 
+## How to Interpret the Results
+
+The primary outputs of this project are the final connectivity-aware conservation priority surface and the optimized conservation portfolio.
+
+The target-group background model is included as a robustness test, not as a replacement for the primary habitat model. It evaluates how sensitive the framework is to alternative assumptions about observation availability in opportunistic wildlife data.
+
+The main takeaway is that habitat and corridor maps are model-dependent, while the optimized investment portfolio shows moderate stability under an alternative model formulation. Specific corridor locations should therefore be interpreted as candidate, model-derived corridors rather than confirmed wildlife movement routes.
+
 ## Planned Next Steps
 
 - Add land cover, vegetation, canopy cover, and terrain ruggedness predictors
