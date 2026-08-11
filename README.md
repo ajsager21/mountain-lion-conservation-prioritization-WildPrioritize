@@ -15,7 +15,7 @@
 
 Explore the conservation priority map, optimized portfolio, candidate corridors, and named priority planning units here:
 
-[Open the interactive dashboard] https://ajsager21.github.io/conservation-dashboard/
+Open the interactive dashboard: https://ajsager21.github.io/conservation-dashboard/
 
 ---
 
