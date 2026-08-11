@@ -348,3 +348,7 @@ Sager, AJ. (2026). Climate-Resilient Conservation Prioritization Using GIS and M
 
 **AJ Sager**  
 Data science, GIS, conservation analytics, and spatial decision-support systems
+
+## Release
+
+Version 1.0.0: [GitHub Release] https://github.com/ajsager21/mountain-lion-conservation-prioritization-WildPrioritize/releases/tag/v1.0.0
